@@ -22,5 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheesidibb1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://app.daily.dev/cheesidibbl"><img src="https://api.daily.dev/devcards/v2/5rIAx68v8ikFNUwNTSS9d.png?type=default&r=l1o" width="356" alt="Zachary Zawadzki's Dev Card"/></a>
+<a href="https://app.daily.dev/cheesidibbl"><img src="https://api.daily.dev/devcards/v2/5rIAx68v8ikFNUwNTSS9d.png?type=wide&r=7hw" width="652" alt="Zachary Zawadzki's Dev Card"/></a>
 
