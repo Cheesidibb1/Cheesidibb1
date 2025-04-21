@@ -1,5 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47iimcacxadzksv4pqedqd8b3ige2vh39vz9h4jqii&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Cheesidibb1&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Cheesidibb1"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 - :hand: Hi, I’m @Cheesidibb1
