@@ -23,8 +23,6 @@
 </div>
 
 ### :fire: My stats:
-![Cheesidibb1's Stats](https://github-readme-stats.vercel.app/api?username=Cheesidibb1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cheesidibb1&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheesidibb1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
