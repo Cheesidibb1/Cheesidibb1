@@ -1,12 +1,10 @@
-<div id="header" align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Cheesidibb1&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Cheesidibb1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Cheesidibb1"
   width="600"
   height="300"
 />
 </a>
-</div>
 
 - :hand: Hi, I’m @Cheesidibb1
 - :eyes: I’m interested in ... coding
