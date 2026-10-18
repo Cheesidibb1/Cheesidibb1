@@ -7,3 +7,5 @@ I use mostly python and I love the actual hardware side of computers and network
 I play the cello and I love to try new things
 
 check out some of my projects :)
+
+questions? email me at github@cheesidibbl.com
